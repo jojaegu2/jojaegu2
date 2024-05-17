@@ -1,11 +1,13 @@
-### Hi there 👋
-
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+  
+### Welcome my github profile ! 👋
 
-
+<br>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
+  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
   <img src="https://img.shields.io/badge/apachehadoop-66CCFF?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ETL-382923?style=for-the-badge&logo=ETL&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/impala-C925D1?style=for-the-badge&logo=impala&logoColor=white" />&nbsp
@@ -18,6 +20,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />&nbsp
 </div>
 
+<br>
+<br>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -30,10 +34,12 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jojaegu2&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+<br>
+<!-- FOOT -->
+<div align=left>
 
-
-
-
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+</div>
+  
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 
