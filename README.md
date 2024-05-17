@@ -13,7 +13,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=jojaegu2&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jojaegu2&show_icons=true&theme=panda)](https://github.com/jojaegu2/github-readme-stats)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 <!--
 **jojaegu2/jojaegu2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
