@@ -3,7 +3,6 @@
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
   <img src="https://img.shields.io/badge/apachehadoop-66CCFF?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/ETL-382923?style=for-the-badge&logo=ETL&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/impala-C925D1?style=for-the-badge&logo=impala&logoColor=white" />&nbsp
